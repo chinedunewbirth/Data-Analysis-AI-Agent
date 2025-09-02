@@ -1,0 +1,9 @@
+Order_ID,Customer_Name,Email,Phone,Product_Category,Order_Date,Revenue,Discount (%)
+101,John Doe,john@email.com,9876543210,Electronics,12/31/2023,1200,10.0
+102,Alice Smith,,9898989898,Clothing,01-05-2024,500,
+103,Bob Miller,bob@email.com,,Electronics,2024/01/12,3000,20.0
+104,John Doe,john@email.com,9876543210,Electronics,12/31/2023,1200,10.0
+105,David White,david@email.com,9123456789,Furniture,02-15-2024,2500,15.0
+106,Emma Brown,emma@email.com,9234567890,Clothing,2024-03-08,700,5.0
+107,Chris Green,,9345678901,Furniture,04/10/2024,1800,25.0
+108,Alice Smith,alice@email.com,,Clothing,03-08-2024,500,

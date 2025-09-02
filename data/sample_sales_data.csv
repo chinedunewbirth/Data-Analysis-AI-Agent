@@ -1,0 +1,26 @@
+date,product_category,sales_amount,units_sold,region,customer_segment,marketing_spend
+2023-01-15,Electronics,15420.50,124,North,Enterprise,2500
+2023-01-20,Clothing,8750.25,89,South,Consumer,1800
+2023-01-25,Electronics,22100.75,180,East,Enterprise,3200
+2023-02-02,Home & Garden,5630.80,45,West,Consumer,1200
+2023-02-08,Clothing,12450.30,156,North,Consumer,2100
+2023-02-15,Electronics,18900.60,145,South,Enterprise,2800
+2023-02-22,Sports,9870.40,78,East,Consumer,1600
+2023-03-01,Home & Garden,7250.90,58,West,Consumer,1400
+2023-03-08,Electronics,25600.80,201,North,Enterprise,3500
+2023-03-15,Clothing,11200.45,142,South,Consumer,1950
+2023-03-22,Sports,13450.70,98,East,Consumer,2200
+2023-03-29,Electronics,19800.25,158,West,Enterprise,2900
+2023-04-05,Home & Garden,6890.35,55,North,Consumer,1350
+2023-04-12,Clothing,14650.80,178,South,Consumer,2300
+2023-04-19,Electronics,28900.90,225,East,Enterprise,3800
+2023-04-26,Sports,11750.60,89,West,Consumer,1850
+2023-05-03,Electronics,21500.40,172,North,Enterprise,3100
+2023-05-10,Home & Garden,8950.75,72,South,Consumer,1650
+2023-05-17,Clothing,16850.20,205,East,Consumer,2650
+2023-05-24,Sports,15200.85,115,West,Consumer,2400
+2023-05-31,Electronics,23450.60,188,North,Enterprise,3300
+2023-06-07,Clothing,13750.90,168,South,Consumer,2150
+2023-06-14,Home & Garden,9650.30,77,East,Consumer,1750
+2023-06-21,Electronics,31200.75,248,West,Enterprise,4100
+2023-06-28,Sports,17890.40,135,North,Consumer,2800
